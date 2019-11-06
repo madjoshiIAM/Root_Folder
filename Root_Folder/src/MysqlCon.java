@@ -17,8 +17,11 @@ import org.json.simple.*;
 public class MysqlCon
 {  
 	/*
-		second check out
+		third check out
 	*/	
+	/*
+		third check out
+	*/
 	public Connection getMySQLconnnection() throws Exception 
 	{
 		FileReader reader=new FileReader("db.properties");  
